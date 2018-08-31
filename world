@@ -1904,4 +1904,15 @@ http://c0.cdn.trinity-tv.net/hls/83/stream.m3u8
 http://c0.cdn.trinity-tv.net/hls/85/stream.m3u8
 #EXTINF:0,Viasat Sport HD 
 http://c0.cdn.trinity-tv.net/hls/86/stream.m3u8
+#EXTINF:0,Sky sp 1
+http://vietcago.net/vstv/skysp1.m3u8
+#EXTINF:0,Sky sp 2
+http://vietcago.net/vstv/skysp2.m3u8
+#EXTINF:0,Sky sp 3
+http://vietcago.net/vstv/skysp3.m3u8
+#EXTINF:0,Sky sp 5
+http://vietcago.net/vstv/skysp5.m3u8
+#EXTINF:0,Sky sp 4
+http://vietcago.net/vstv/skysp4.m3u8
+
 
