@@ -1895,3 +1895,13 @@ http://54.36.168.168:8000/live/zizo18040/54544452/6810.ts
 http://54.36.168.168:8000/live/zizo18040/54544452/6809.ts
 #EXTINF:-1,Bein sport 5 HD
 http://54.36.168.168:8000/live/zizo18040/54544452/6807.ts
+#EXTINF:0,Sport 1 
+http://c0.cdn.trinity-tv.net/hls/60/stream.m3u8
+#EXTINF:0,http://c0.cdn.trinity-tv.net/hls/63/stream.m3u8
+#EXTINF:0,Sport 1 Baltic 
+http://c0.cdn.trinity-tv.net/hls/83/stream.m3u8
+#EXTINF:0,Sport 2 Baltic 
+http://c0.cdn.trinity-tv.net/hls/85/stream.m3u8
+#EXTINF:0,Viasat Sport HD 
+http://c0.cdn.trinity-tv.net/hls/86/stream.m3u8
+
