@@ -1914,5 +1914,10 @@ http://vietcago.net/vstv/skysp3.m3u8
 http://vietcago.net/vstv/skysp5.m3u8
 #EXTINF:0,Sky sp 4
 http://vietcago.net/vstv/skysp4.m3u8
+#EXTINF:0,Xsport 
+http://c0.cdn.trinity-tv.net/hls/58/stream.m3u8
+#EXTINF:0,Viasat Sport 
+http://c0.cdn.trinity-tv.net/hls/185/stream.m3u8
+
 
 
